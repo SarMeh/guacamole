@@ -6,3 +6,4 @@ cilantro
 salt
 pepper
 chili
+mix everything well
